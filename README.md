@@ -83,10 +83,6 @@ A modern WordPress form builder plugin designed for businesses, agencies, and de
 
 > “Security is not a product, it’s a mindset.” 🔐
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudbbir23&label=Profile%20views&color=0e75b6&style=flat" alt="mudbbir23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudbbir23" alt="mudbbir23" /></a> </p>
-
 - 🔭 I’m currently working on **Cyber Security Skill's and Web Development**
 
 - 🌱 I’m currently learning **Cyber Security**
