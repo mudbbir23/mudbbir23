@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mudbbir Ahmad</h1>
 <h3 align="center">A Cyber Security student and Full-Stack Web Developer from Pakistan 🇵🇰</h3>
 
-# Hey there 👋
-
-I'm Mudbbir Ahmad — a Cyber Security student and Full-Stack Web Developer from Pakistan 🇵🇰  
 
 I build secure, scalable, and practical digital solutions.
 
