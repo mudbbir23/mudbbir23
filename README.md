@@ -381,7 +381,7 @@ Pursuing structured study of Cyber Security concepts, with a focus on practical 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mudbbir23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=mudbbir23&theme=radical&no-frame=true&no-bg=false&margin-w=10&row=1&column=6" />
 
 </div>
 
