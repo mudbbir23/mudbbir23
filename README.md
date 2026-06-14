@@ -123,7 +123,7 @@ A modern WordPress form builder plugin designed for businesses, agencies, and de
 <br/>
 
 ![Student](https://img.shields.io/badge/Cyber%20Security-Student-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Location](https://img.shields.io/badge/Pakistan%20🇵🇰-Chenab-Nagar-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Pakistan%20🇵🇰-ChenabNagar-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Freelancer](https://img.shields.io/badge/Freelancer-Available-5B21B6?style=for-the-badge&logo=freelancer&logoColor=white)
 
 <br/>
