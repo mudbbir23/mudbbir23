@@ -377,15 +377,6 @@ Pursuing structured study of Cyber Security concepts, with a focus on practical 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mudbbir23&theme=radical&no-frame=true&no-bg=false&margin-w=10&row=1&column=6" />
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
