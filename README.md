@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mudbbir Ahmad</h1>
+<!-- <h1 align="center">Hi 👋, I'm Mudbbir Ahmad</h1>
 <h3 align="center">A Cyber Security student and Full-Stack Web Developer from Pakistan 🇵🇰</h3>
 
 
@@ -109,4 +109,349 @@ A modern WordPress form builder plugin designed for businesses, agencies, and de
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudbbir23&" alt="mudbbir23" /></p> -->
 
+ -->
 
+
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Mudbbir%20Ahmad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20Full-Stack%20Developer%20%7C%20WordPress%20Plugin%20Builder&descAlignY=55&descSize=17" width="100%"/>
+
+<a href="https://github.com/mudbbir23">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Cyber+Security+Learner+%F0%9F%94%90;Full-Stack+Web+Developer+%F0%9F%8C%90;WordPress+Plugin+Developer+%F0%9F%A7%A9;Building+Secure+Digital+Solutions+%F0%9F%9A%80;From+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+to+the+World" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Student](https://img.shields.io/badge/Cyber%20Security-Student-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Location](https://img.shields.io/badge/Pakistan%20🇵🇰-Sialkot-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Freelancer](https://img.shields.io/badge/Freelancer-Available-5B21B6?style=for-the-badge&logo=freelancer&logoColor=white)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://mudbbir-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mudbbir23)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudbbirahmad46@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mudbbir23)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mudbbir23&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/mudbbir23?style=for-the-badge&color=8b5cf6&labelColor=1e1e2e)
+![Stars](https://img.shields.io/github/stars/mudbbir23?style=for-the-badge&color=a78bfa&labelColor=1e1e2e)
+
+</div>
+
+---
+
+## 🪐 About Me
+
+```yaml
+name:     "Mudbbir Ahmad"
+role:     "Cyber Security Student | Full-Stack Developer | WordPress Plugin Builder"
+location: "Pakistan 🇵🇰"
+started:  "2019"
+motto:    "If I see a problem, I don't just complain about it — I build a system to solve it."
+
+what_i_do:
+  - "🔐 Cyber Security Learner — Future Security Specialist"
+  - "🌐 Full-Stack Web Developer"
+  - "🧩 WordPress Plugin Developer"
+  - "💼 Freelancer — building real-world digital solutions"
+
+currently_building:
+  - "A modern WordPress Form Builder Plugin for businesses, agencies, and developers"
+
+mission:
+  - "Master Cyber Security at the highest level"
+  - "Build powerful, secure SaaS products"
+  - "Contribute to secure digital ecosystems globally"
+```
+
+I'm a passionate **Cyber Security student and Full-Stack Web Developer** from Pakistan 🇵🇰, building secure, scalable, and practical digital solutions since 2019. I specialize in **full-stack web development**, **WordPress plugin engineering**, and **applied security fundamentals**, with a product mindset that prioritizes real-world impact.
+
+I'm currently scaling my own product — a **modern WordPress Form Builder Plugin** designed specifically for businesses, agencies, and developers who demand flexibility, security, and performance.
+
+> *I believe consistency beats talent — and I'm turning discipline into my superpower.*
+
+### 🎯 Open To
+
+- 💼 Freelance projects in **Web Development** and **Security Consulting**
+- 🤝 Open-source collaborations and WordPress ecosystem contributions
+- 🌍 Global tech opportunities and remote engineering roles
+- 💬 Technical discussions on **Cyber Security**, **Web Development**, and **Networking**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,javascript,php,html,css&theme=dark" />
+</div>
+
+### Frontend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
+</div>
+
+### Backend & Databases
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql&theme=dark" />
+</div>
+
+### Cloud, DevOps & Tooling
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,wordpress,linux,vscode&theme=dark" />
+</div>
+
+---
+
+## 🔐 Cyber Security Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|--------|:-----------:|---------|
+| **Network Security** | ⭐⭐⭐ | TCP/IP fundamentals, network protocols, packet analysis |
+| **Ethical Hacking** | ⭐⭐⭐ | Penetration testing fundamentals, vulnerability assessment |
+| **Secure Software Development** | ⭐⭐⭐⭐ | Input validation, auth security, OWASP best practices |
+| **Linux & CLI** | ⭐⭐⭐ | Basic administration, scripting, file system navigation |
+| **Cyber Security Fundamentals** | ⭐⭐⭐⭐ | CIA Triad, threat modeling, incident response basics |
+| **REST API Security** | ⭐⭐⭐⭐ | Token-based auth, rate limiting, API hardening |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🔹 WordPress Form Builder Plugin (Flagship Product)</b></summary>
+
+<br/>
+
+A modern, feature-rich WordPress form builder plugin engineered for businesses, agencies, and developers — prioritizing flexibility, performance, and security by design.
+
+| Aspect | Details |
+|--------|---------|
+| **Stack** | PHP, JavaScript, React, MySQL, WordPress REST API |
+| **Scale** | Designed for enterprise WordPress deployments |
+| **Performance** | Optimized queries, lazy-loaded assets, minimal footprint |
+| **Security** | Nonce verification, capability checks, sanitized inputs, XSS prevention |
+| **Impact** | Enables non-technical users to build complex, secure forms without code |
+| **Repository** | [github.com/mudbbir23](https://github.com/mudbbir23) |
+
+Built from scratch with a **security-first architecture**, the plugin ships with dynamic field types, conditional logic, and a React-powered builder interface. Every input pipeline is sanitized and validated server-side following WordPress VIP coding standards. Designed to scale from simple contact forms to complex multi-step business workflows.
+
+</details>
+
+<details>
+<summary><b>🔹 Full-Stack Web Applications</b></summary>
+
+<br/>
+
+A collection of production-grade web applications built using the Node.js and React ecosystem, focused on clean architecture and developer experience.
+
+| Aspect | Details |
+|--------|---------|
+| **Stack** | React, Node.js, Express.js, MySQL, Tailwind CSS |
+| **Scale** | Multi-user, session-based applications |
+| **Performance** | Optimized API responses, component-level code splitting |
+| **Security** | JWT authentication, input sanitization, CORS policies |
+| **Impact** | End-to-end projects demonstrating full ownership from DB to UI |
+| **Repository** | [github.com/mudbbir23](https://github.com/mudbbir23) |
+
+Architected RESTful backends with Express.js, persistent data layers with MySQL, and interactive frontends with React and Tailwind CSS. Each project emphasizes clean folder structure, reusable component design, and secure API design.
+
+</details>
+
+<details>
+<summary><b>🔹 C++ Software Projects</b></summary>
+
+<br/>
+
+Foundational software engineering projects built in C++ during intermediate studies, covering data structures, algorithms, and basic system-level programming.
+
+| Aspect | Details |
+|--------|---------|
+| **Stack** | C++, OOP, Standard Library |
+| **Scale** | Academic and personal software tools |
+| **Performance** | Efficient memory management and algorithmic design |
+| **Security** | Safe input handling and boundary checking |
+| **Impact** | Built a strong programming foundation powering all later development |
+| **Repository** | [github.com/mudbbir23](https://github.com/mudbbir23) |
+
+Developed practical software tools including management systems, data structure implementations, and algorithm visualizations. These projects established a disciplined approach to problem-solving that carries through to every project built today.
+
+</details>
+
+---
+
+## 💼 Experience
+
+### Full-Stack Developer & WordPress Plugin Engineer — **Freelance / Self-Directed**
+*2021 – Present*
+
+Building client-facing web applications, WordPress solutions, and a flagship SaaS plugin product independently, managing the full product lifecycle from architecture to deployment.
+
+- Developed and delivered multiple full-stack web applications for clients across various domains
+- Engineered a custom WordPress Form Builder Plugin — handling architecture, UI, security, and distribution
+- Integrated REST APIs and third-party services into WordPress and Node.js ecosystems
+- Maintained secure coding practices: input sanitization, auth flows, OWASP-aligned development
+
+`PHP` `JavaScript` `React` `Node.js` `MySQL` `WordPress` `REST APIs` `Git`
+
+---
+
+### Cyber Security Student — **Self-Study / Active Learner**
+*2023 – Present*
+
+Pursuing structured study of Cyber Security concepts, with a focus on practical application in secure software development and network defense.
+
+- Studying advanced Cyber Security concepts including network security and ethical hacking fundamentals
+- Applying secure development practices directly to all ongoing web projects
+- Exploring penetration testing methodologies and vulnerability research
+- Building a disciplined learning path toward professional security certification
+
+`Network Security` `Ethical Hacking` `Linux` `Secure Development` `Fundamentals`
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| 🚀 **Independent Product Builder** | Designed, engineered, and launched a WordPress Plugin as a solo developer |
+| 💻 **Full-Stack Developer since 2019** | 5+ years of consistent, self-driven coding and product development |
+| 🔐 **Security-First Developer** | Integrates OWASP-aligned security practices into every project |
+| 🌍 **Global Freelancer** | Delivered web solutions for clients internationally as an independent developer |
+| 🎯 **Discipline-Driven Achiever** | Transformed self-taught skills into a professional-grade engineering portfolio |
+
+</div>
+
+---
+
+## 📜 Certifications & Learning
+
+### 🔐 Cyber Security
+[![Cyber Security Fundamentals](https://img.shields.io/badge/Cyber%20Security-Fundamentals-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/mudbbir23)
+[![Network Security](https://img.shields.io/badge/Network-Security%20Basics-6D28D9?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/mudbbir23)
+
+### 🌐 Web Development
+[![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/mudbbir23)
+[![React](https://img.shields.io/badge/React-Certified%20Knowledge-A78BFA?style=for-the-badge&logo=react&logoColor=white)](https://github.com/mudbbir23)
+[![WordPress](https://img.shields.io/badge/WordPress-Plugin%20Development-5B21B6?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/mudbbir23)
+
+### 🐧 Linux & Tooling
+[![Linux](https://img.shields.io/badge/Linux-CLI%20Fundamentals-7C3AED?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/mudbbir23)
+[![Git](https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-6D28D9?style=for-the-badge&logo=git&logoColor=white)](https://github.com/mudbbir23)
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-mudbbir23-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mudbbir23)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Projects-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://mudbbir-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Contact-mudbbirahmad46%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudbbirahmad46@gmail.com)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mudbbir23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&ring_color=7C3AED" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mudbbir23&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudbbir23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="49%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mudbbir23&theme=discord&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mudbbir23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff" width="95%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mudbbir23/mudbbir23/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced Cyber Security concepts & methodologies
+  - Network Security and protocol analysis
+  - Ethical Hacking fundamentals and penetration testing
+  - Secure Software Development practices
+
+building:
+  - WordPress Form Builder Plugin (SaaS product)
+  - Full-stack web applications with Node.js & React
+  - Security-hardened REST API architectures
+
+exploring:
+  - Web Application Firewall (WAF) concepts
+  - OWASP Top 10 vulnerability research
+  - Docker & containerized deployment workflows
+
+open_to:
+  - Freelance Web Development & WordPress projects
+  - Collaborations with Cyber Security professionals
+  - Global remote engineering opportunities
+  - Mentorship from Security & Engineering professionals
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-mudbbirahmad46%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudbbirahmad46@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mudbbir%20Ahmad-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mudbbir23)
+[![GitHub](https://img.shields.io/badge/GitHub-mudbbir23-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mudbbir23)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Hire%20Me-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://mudbbir-portfolio.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Security is not a product, it's a mindset." 🔐*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=150&section=footer" width="100%"/>
+
+</div>
