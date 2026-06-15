@@ -129,7 +129,7 @@ A modern WordPress form builder plugin designed for businesses, agencies, and de
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://mudbbir-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/mudbbir-ahmad-b49733220](www.linkedin.com/in/mudbbir-ahmad-b49733220))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mudbbir-ahmad-b49733220/](https://www.linkedin.com/in/mudbbir-ahmad-b49733220/))
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudbbirahmad46@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mudbbir23)
 
@@ -431,7 +431,7 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-mudbbirahmad46%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudbbirahmad46@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mudbbir%20Ahmad-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mudbbir23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mudbbir%20Ahmad-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudbbir-ahmad-b49733220/)
 [![GitHub](https://img.shields.io/badge/GitHub-mudbbir23-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mudbbir23)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Hire%20Me-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://mudbbir-portfolio.vercel.app/)
 
